@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am callonisthree on github.
+  * I am sudrajat (https://keybase.io/sudrajat) on keybase.
+  * I have a public key ASDW4HtrHHfDbM_jVeqgveyUuFIRh9WtXoCKRv208jWhago
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6e07b6b1c77c36ccfe355eaa0bdec94b8521187d5ad5e808a46fdb4f235a16a0a",
+      "host": "keybase.io",
+      "kid": "0120d6e07b6b1c77c36ccfe355eaa0bdec94b8521187d5ad5e808a46fdb4f235a16a0a",
+      "uid": "9773f3cb7e6a41d34cd3a4d2b0bab219",
+      "username": "sudrajat"
+    },
+    "merkle_root": {
+      "ctime": 1568220506,
+      "hash": "013b83b63e5507cfc4c49933c4d1d0a41d935eb5be58eb4cc5896f1f2957cedc33ff8bce0f11be9a1a9473124f6a64c4b11d869c47a27dedcfa35b2aee46937a",
+      "hash_meta": "ef81bae977ff82e96da8bb8f398a2a622d6c96eb06e618b1620f5033e7b94618",
+      "seqno": 6764959
+    },
+    "service": {
+      "entropy": "7HrZDBojzFI6aEmr7ePbRJ3V",
+      "name": "github",
+      "username": "callonisthree"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568220514,
+  "expire_in": 504576000,
+  "prev": "10d9aec92bb15bb649f31ba17128c9035e18a4a078bb6d6b7201c174edbcedcb",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASDW4HtrHHfDbM_jVeqgveyUuFIRh9WtXoCKRv208jWhago](https://keybase.io/sudrajat), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1uB7axx3w2zP41XqoL3slLhSEYfVrV6Aikb9tPI1oWoKp3BheWxvYWTESpcCCMQgENmuySuxW7ZJ8xuhcSjJA14YpKB4u21rcgHBdO287cvEIAc9gbfvrf4wC6AxJ8LR/BZ3Cr8dH554swG+7oDX3+dNAgHCo3NpZ8RAYPsEZF4/zp8CiPAIKbHoZX6TmhfwIwj9yjaJ/yaEu5eo5CpCz37owzUurjeKJZpVnJOuvnTIzNaT3JJJJHEjD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOAJCYXyqOIXjuOuxZrxfq4PzAwlwGu551z29c2OuzgZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sudrajat
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sudrajat
+```
